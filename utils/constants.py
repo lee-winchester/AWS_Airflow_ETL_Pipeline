@@ -33,5 +33,13 @@ POST_FIELDS = (
     'over_18',
     'edited',
     'spoiler',
-    'stickied'
+    'stickied',
+    'ups',
+    'num_comments',
+    'upvote_ratio',
+    'selftext',
+    'thumbnail',
+    'total_awards_received',
+    'is_video',
+
 )
